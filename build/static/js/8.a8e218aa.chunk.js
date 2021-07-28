@@ -1,0 +1,2 @@
+(this["webpackJsonpwazirx-staking"]=this["webpackJsonpwazirx-staking"]||[]).push([[8],{1099:function(n,i){},822:function(n,i){},823:function(n,i){},849:function(n,i){},850:function(n,i){},856:function(n,i){}}]);
+//# sourceMappingURL=8.a8e218aa.chunk.js.map
